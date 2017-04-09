@@ -1,0 +1,4 @@
+this
+could
+work
+readlines or not
